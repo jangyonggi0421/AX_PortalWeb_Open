@@ -1,1 +1,1 @@
-# AX_PortalWeb_Open
+# AX_PortalWeb_Open(공개)
